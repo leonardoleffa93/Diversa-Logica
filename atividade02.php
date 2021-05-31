@@ -10,10 +10,11 @@
     $idade = $anoAtual - $anoNascimento;
     
     //Como calculo o IMC? (peso)/ (altura x altura)
-    $peso = 76;
-    $altura = 1.68;
+    $peso = 76; //variavel peso definida como 76
+    $altura = 1.68; //variavel altura definida como 1.68
     
-    $imc = ($peso) / ($altura * $altura);
+    $imc = ($peso) / ($altura * $altura); 
+    //variavel imc é definida como a variavel peso (que é 76 no código) dividido pela variavel altura multiplicada por ela mesmo(altura ao quadrado)
     //$imc = ($peso) / pow($altura, 2);
     
     //Imprimindo em tela os resultados
