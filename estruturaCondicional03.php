@@ -1,6 +1,7 @@
 <?php
-    
+    //variavel "diaSemana" definido como "5"
     $diaSemana = 5;
+    //validação de casos por switch, onde ele verifica varios casos "se"
     switch ($diaSemana) {
        case 1:
             print ("Domingo");
