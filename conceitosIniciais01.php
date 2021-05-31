@@ -9,7 +9,7 @@
     if($temCarro == "sim")
     {
         echo "Não atravessei a rua";
-
+    //verificação "senao" caso "temCarro" está definida como "não"
     } else {
         echo "Atravessei a rua";
     }
