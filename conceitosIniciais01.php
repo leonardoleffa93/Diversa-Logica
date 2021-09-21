@@ -4,6 +4,7 @@
     echo "Olhando para a direita. \n";
     echo "Olhando para a esquerda.\n";
     //variavel temCarro definida como a string "sim";
+    //se alterar ela para "não" ele irá dar retorno no final que atravessou a rua;
     $temCarro = "sim";
     //verificação "se" para ver se "temCarro" é definido como "sim"
     if($temCarro == "sim")
