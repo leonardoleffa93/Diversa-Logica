@@ -1,4 +1,5 @@
 <?php
+    //definição da variável $idade
     $idade = 67;
     //condição "se" variavel "idade" for menor que "2"
     if ($idade < 2) {
