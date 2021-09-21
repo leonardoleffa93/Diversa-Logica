@@ -1,7 +1,7 @@
 <?php
     
     //Declaração das constantes
-    define( 'NOME', 'Jéssica Almeida' ); 
+    define( 'NOME', 'Leonardo Leffa' ); 
     define ('ALTURA', 1.70); 
     define('ATIVO', true);
     //escreve as constantes definidas acima na tela ao executar o código
