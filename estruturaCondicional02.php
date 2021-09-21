@@ -1,4 +1,5 @@
 <?php
+    $idade = 67;
     //condição "se" variavel "idade" for menor que "2"
     if ($idade < 2) {
         //impressão na tela do texto "uso não permitido"
